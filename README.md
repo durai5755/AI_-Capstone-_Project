@@ -26,7 +26,8 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 ## Files
 - project.py - Main Python code
 - titanic dataset.csv - Dataset
+- app.py (streamlit Application)
 - readme - Project documentation
 
 ## Author
-Deva
+Devadharshini
